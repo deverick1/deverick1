@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hello World  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> It's Erick!
 
-<!--
-**deverick1/deverick1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Fullstack developer with a deep love for Java. I'm passionate about technology and always open to collaborating on innovative projects and ideas. You can find more information about me and contact me here:
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi321/)](https://www.linkedin.com/in/erick-marangoni-647574236/)
+[![Gmail Badge](https://img.shields.io/badge/-marangonierick056@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marangonierick056@gmail.com)](mailto:marangonierick056@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## What i'm up to
+
+- 📖 I am currently studying for an Associate's Degree in Systems Analysis.
+- 👯 I’m looking forward to collaborate on open source projects.
+- 🔭 I am open to exploring any junior developer role.
+
+
+## Languages and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,bootstrap,&theme=dark&perline=4)](https://skillicons.dev)
