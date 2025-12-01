@@ -8,7 +8,7 @@ I'm a Fullstack developer with a deep love for Java. I'm passionate about techno
 
 ## What i'm up to
 
-- 📖 I am currently studying for an Associate's Degree in Systems Analysis.
+- 📖 I am currently studying for an Associate's Degree in Software Development.
 - 👯 I’m looking forward to collaborate on open source projects.
 - 🔭 I am open to exploring any junior developer role.
 
