@@ -15,4 +15,4 @@ I'm a Fullstack developer with a deep love for Java. I'm passionate about techno
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,git,bootstrap,&theme=dark&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,js,git,&theme=dark&perline=4)](https://skillicons.dev)
