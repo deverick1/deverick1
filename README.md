@@ -14,4 +14,4 @@ I'm a Backend developer with a deep love for Java. I'm passionate about technolo
 
 ## Languages and Tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,mysql,springboot)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,mysql,spring&theme=light)
