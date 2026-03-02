@@ -14,4 +14,4 @@ I'm a Backend developer with a deep love for Java. I'm passionate about technolo
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,js,git,&theme=dark&perline=4)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,sql,springboot)
