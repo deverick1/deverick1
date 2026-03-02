@@ -1,7 +1,9 @@
 ## Hello World  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> It's Erick!
 
 Hi there, my name is Erick and I'm from Argentina.
-I'm a Backend developer with a deep love for Java. I'm passionate about technology and always open to collaborating on innovative projects and ideas. 
+I'm a backend developer with a deep love for Java. I'm passionate about technology and always open to collaborating on innovative projects and ideas. 
+I enjoy designing scalable backend systems and clean API architectures.
+
 
 Contact me here:
 
@@ -9,11 +11,12 @@ Contact me here:
 [![Gmail Badge](https://img.shields.io/badge/-marangonierick056@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marangonierick056@gmail.com)](mailto:marangonierick056@gmail.com)
 
 
-## What i'm up to
+## What i'm Up To
 
-- 👯 I’m looking forward to collaborate on open source projects.
-- 🔭 I am open to exploring any junior developer role.
-- 📖 I’m currently learning English, my current level is B1.
+- 👯 Open to collaborate on Java / Spring Boot backend projects.
+- 🔭 Actively seeking my first professional backend developer role.
+- 📖 Currently improving my English (B1 → B2).
+
 
 
 ## Languages and Tools
