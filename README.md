@@ -21,4 +21,4 @@ Contact me here:
 
 ## Languages and Tools
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,mysql,spring,bash&theme=light&perline)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,mysql,spring,bash,git,&perline=3)
