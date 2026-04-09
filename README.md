@@ -1,8 +1,7 @@
 ## Hello World  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> It's Erick!
 
 Hi there, my name is Erick and I'm from Argentina.
-I'm a backend developer with a deep love for Java. I'm passionate about technology and always open to collaborating on innovative projects and ideas. 
-I enjoy designing scalable backend systems and clean API architectures.
+I'm a software development student (final year) with a deep love for Java. I'm passionate about technology and always open to collaborating on innovative projects and ideas. 
 
 
 Contact me here:
