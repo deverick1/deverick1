@@ -14,7 +14,7 @@ Contact me here:
 
 - 👯 Open to collaborate on Java / Spring Boot backend projects.
 - 🔭 Actively seeking my first professional backend developer role.
-- 📖 Currently improving my English (B1 → B2).
+- 📖 Currently improving my English.
 
 
 
