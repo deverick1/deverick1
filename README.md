@@ -13,7 +13,7 @@ Contact me here:
 ## What i'm Up To
 
 - 👯 Open to collaborate on Java / Spring Boot projects.
-- 🔭 Actively seeking my first professional software developer role.
+- 🔭 Looking for my first professional software developer role.
 - 📖 Currently improving my English.
 
 
