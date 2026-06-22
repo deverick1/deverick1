@@ -1,6 +1,6 @@
 ## Hello World  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> It's Erick!
 
-Hi there, my name is Erick and I'm from Argentina.
+Hello there! my name is Erick and I'm from Argentina.
 I'm a Full Stack Developer. I'm passionate about technology and always open to collaborating on innovative projects and ideas. 
 
 
@@ -12,7 +12,7 @@ Contact me here:
 
 ## What i'm Up To
 
-- 👯 Open to collaborate on Java / Spring Boot projects.
+- 👯 Open to collaborate on projects.
 - 🔭 Looking for my first professional software developer role.
 - 📖 Currently improving my English.
 
